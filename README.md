@@ -24,15 +24,18 @@ Mengatur Footer
 ![Cuplikan layar 2024-10-21 233854](https://github.com/user-attachments/assets/7d442a79-41e1-4907-9d68-8216577d8fd2)
 
 Menambahkan element lainnya pada maint content
+![Cuplikan layar 2024-10-21 234911](https://github.com/user-attachments/assets/a6508e6c-6150-4147-8a28-46740ca3dd54)
+
+Menambhakan content artikel
 ![Cuplikan layar 2024-10-21 235234](https://github.com/user-attachments/assets/b66f79ba-8076-40e8-b2ca-7f46f8b7041f)
 
 
 Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
-![aboutus](https://github.com/user-attachm)
+![aboutus](https://github.com/user-attachments/assets/6448a2ee-b6a3-4828-bf5d-a7da350a8dd2)
 
-2. Tambahkan layout untuk menu Contact
+3. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 ![kontak](https://github.com/user-attachments/assets/bac356a4-ebcd-4655-b12a-249bb024b030)ents/assets/b7ffad04-a3b8-42a9-881b-e2c5ad2851e0)
 
