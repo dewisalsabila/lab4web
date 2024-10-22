@@ -10,24 +10,9 @@ Mengatur Clearfix element
 ![Cuplikan layar 2024-10-21 161956](https://github.com/user-attachments/assets/c66c7980-ea04-475c-94ba-b06d661cc74b)
 
 Membuat Layout Sederhana
-![Cuplikan layar 2024-10-21 230425](https://github.com/user-attachments/assets/f9853f19-6f99-4572-b20e-067ab3c6df02)
-![Cuplikan layar 2024-10-21 231842](https://github.com/user-attachments/assets/d67ffc00-87dd-4cb7-9418-9b55dac383a5)
-![Cuplikan layar 2024-10-21 232207](https://github.com/user-attachments/assets/cd152605-6264-41c0-b09d-86c58fd60d66)
-
-Membuat Hero panel
-![Cuplikan layar 2024-10-21 232431](https://github.com/user-attachments/assets/764195d0-5633-4cd6-9c05-8473f81efee7)
-
-Mengatur Layout dan sidebar
-![Cuplikan layar 2024-10-21 233645](https://github.com/user-attachments/assets/df17fbf2-46bb-48a2-af9b-657e0f8ec3bc)
-
-Mengatur Footer
-![Cuplikan layar 2024-10-21 233854](https://github.com/user-attachments/assets/7d442a79-41e1-4907-9d68-8216577d8fd2)
-
-Menambahkan element lainnya pada maint content
-![Cuplikan layar 2024-10-21 234911](https://github.com/user-attachments/assets/a6508e6c-6150-4147-8a28-46740ca3dd54)
-
-Menambhakan content artikel
-![Cuplikan layar 2024-10-21 235234](https://github.com/user-attachments/assets/b66f79ba-8076-40e8-b2ca-7f46f8b7041f)
+![home](https://github.com/user-attachments/assets/7fd84e6a-043b-44da-9a7c-4be8586b3b4e)
+![homeII](https://github.com/user-attachments/assets/71da405e-e520-4ee3-804a-d0ffa6d8bc3a)
+![homeIII](https://github.com/user-attachments/assets/46f66daf-da8d-4a30-bbdf-c4ee782fe22c)
 
 
 Pertanyaan dan Tugas
