@@ -10,7 +10,7 @@ Mengatur Clearfix element
 ![Cuplikan layar 2024-10-21 161956](https://github.com/user-attachments/assets/c66c7980-ea04-475c-94ba-b06d661cc74b)
 
 Membuat Layout Sederhana
-![home](https://github.com/user-attachments/assets/7fd84e6a-043b-44da-9a7c-4be8586b3b4e)
+![HOMEE](https://github.com/user-attachments/assets/f683f185-9d60-4fa6-ad31-ec49cb379090)
 ![homeII](https://github.com/user-attachments/assets/71da405e-e520-4ee3-804a-d0ffa6d8bc3a)
 ![homeIII](https://github.com/user-attachments/assets/46f66daf-da8d-4a30-bbdf-c4ee782fe22c)
 
